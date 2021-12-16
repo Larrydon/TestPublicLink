@@ -1,5 +1,5 @@
 ﻿# TestPublicLink
 
-![C#_條件式編譯的符號](http://10.1.21.196:3000/RD_SampleCode/CSharpCallDLL_Standard/src/branch/master/docs/asset/C%23_%e6%a2%9d%e4%bb%b6%e5%bc%8f%e7%b7%a8%e8%ad%af%e7%9a%84%e7%ac%a6%e8%99%9f.png)
+![C#_條件式編譯的符號](https://github.com/Larrydon/TestPublicLink/blob/main/C#_%E6%A2%9D%E4%BB%B6%E5%BC%8F%E7%B7%A8%E8%AD%AF%E7%9A%84%E7%AC%A6%E8%99%9F.png)
 
-![C#_條件式編譯的符號](http://10.1.21.196:3000/RD_SampleCode/CSharpCallDLL_Standard/src/branch/master/docs/asset/CSharp_Symbol.png)
+![C#_條件式編譯的符號](https://github.com/Larrydon/TestPublicLink/blob/main/CSharp_Symbol.png)
